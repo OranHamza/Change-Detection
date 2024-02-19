@@ -76,5 +76,4 @@ if __name__ == "__main__":
             cv2.imshow(f"Change Detected on Frame {i}", current_frame)
             cv2.waitKey(0)
 
-    # Pencereleri kapat
     cv2.destroyAllWindows()
